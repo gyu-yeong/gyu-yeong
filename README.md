@@ -20,7 +20,7 @@
 - SQL
 - Tableau
 
-### license
+### lICENSE
 - 사회조사분석사 2급
 - ADsP
 - SQLD
