@@ -1,10 +1,31 @@
 ## Intro.
+#### 👋 Hi, I’m @gyu-yeong
 
-- 👋 Hi, I’m @gyu-yeong
-- 1999.01.20.
-- Kyonggi univ (MAJOR: Applied Statistics) 
-  - FF
+### Kyonggi univ 
+- 2018.03 ~ 2024.02
+- MAJOR: Applied Statistics
 
+### D.N.A (Data And Analysis study club)
+- member of a club (2021.09 ~ 2022.05)
+- president of a club (2022.06 ~ 2023.06)
+
+### AWARDS
+- In-school data analysis contest 2st (2022.06)
+- 대전광역시 공공데이터 활용 공모전 아이디어 부문 최우수 (2022.09)
+- 경상남도 공공데이터 활용 아이디어 경진대회 최우수 (2023.07)
+
+### SKILL
+- Python
+- R
+- SQL
+- Tableau
+
+### license
+- 사회조사분석사 2급
+- ADsP
+- SQLD
+
+### More details
 - 👀 TABLEAU PUBLIC (https://public.tableau.com/app/profile/.26001199)
 - 💡 PORTPOLIO (https://www.miricanvas.com/v/11ohmp3)
 
